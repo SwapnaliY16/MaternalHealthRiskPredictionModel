@@ -1,1 +1,1 @@
-# MaternalHealthRiskPredictionModel
+This project outlines a dataset collected from the rural regions of Bangladesh via the IoT based risk checking device and prediction of the intensity of maternal health risk such as high(2), medium(1) and low(0) by applying ML classification algorithms.
